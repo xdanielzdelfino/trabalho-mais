@@ -1,0 +1,19 @@
+{
+  "name": "trabalho-mais",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "lint": "eslint js/",
+    "test": "node --test tests/*.js",
+    "start": "npx serve . -l 8080",
+    "auditoria": "node scripts/rodar-auditorias.js",
+    "carga": "node scripts/medir-carga.js http://127.0.0.1:8080/ 20",
+    "prints": "node scripts/capturar-imagens.js",
+    "pdf": "node scripts/gerar-pdf.js"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "puppeteer": "^24.43.1",
+    "serve": "^14.2.4"
+  }
+}

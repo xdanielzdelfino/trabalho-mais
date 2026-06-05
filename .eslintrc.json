@@ -1,0 +1,13 @@
+{
+  "env": { "browser": true, "node": true, "es2022": true },
+  "extends": "eslint:recommended",
+  "globals": {
+    "usuarios": "readonly",
+    "vagas": "readonly",
+    "filtrarVagas": "readonly",
+    "validarLogin": "readonly"
+  },
+  "rules": {
+    "no-unused-vars": "off"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "geradoEm": "2026-06-05T15:14:09.224Z",
+  "versaoFinal": [
+    {
+      "url": "http://127.0.0.1:8080/",
+      "performance": 100,
+      "accessibility": 100,
+      "fcp": "0.9 s",
+      "lcp": "0.9 s"
+    },
+    {
+      "url": "http://127.0.0.1:8080/login.html",
+      "performance": 100,
+      "accessibility": 100,
+      "fcp": "1.1 s",
+      "lcp": "1.1 s"
+    },
+    {
+      "url": "http://127.0.0.1:8080/vagas.html",
+      "performance": 98,
+      "accessibility": 100,
+      "fcp": "1.1 s",
+      "lcp": "1.1 s"
+    }
+  ],
+  "rascunhoInicial": [
+    {
+      "url": "http://127.0.0.1:8081/index.html",
+      "performance": 97,
+      "accessibility": 79,
+      "fcp": "2.0 s",
+      "lcp": "2.0 s"
+    },
+    {
+      "url": "http://127.0.0.1:8081/login.html",
+      "performance": 100,
+      "accessibility": 96,
+      "fcp": "0.9 s",
+      "lcp": "0.9 s"
+    }
+  ]
+}

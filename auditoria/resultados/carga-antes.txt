@@ -1,0 +1,8 @@
+﻿{
+  "data": "2026-06-05T15:14:11.236Z",
+  "url": "http://127.0.0.1:8081/index.html",
+  "requisicoes": 20,
+  "mediaMs": 2.21,
+  "minMs": 0.43,
+  "maxMs": 24.44
+}

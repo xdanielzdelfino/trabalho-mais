@@ -8,8 +8,7 @@
     "start": "npx serve . -l 8080",
     "auditoria": "node scripts/rodar-auditorias.js",
     "carga": "node scripts/medir-carga.js http://127.0.0.1:8080/ 20",
-    "prints": "node scripts/capturar-imagens.js",
-    "pdf": "node scripts/gerar-pdf.js"
+    "prints": "node scripts/capturar-imagens.js"
   },
   "devDependencies": {
     "eslint": "^8.57.0",
